@@ -31,7 +31,7 @@ The app builds a friendly community around exploring Bath together
 
 
 ## Novel User Experience
-Instead of traditional review apps, this focuses on vibe based discovery, users explore a city through moods and personal stories rather than ratings 
+Instead of traditional review apps, this focuses on vibe based discovery, users explore a city through moods and personal stories rather than ratings. 
 It blends the feeling of a social network with the practicality of a map
 
 
