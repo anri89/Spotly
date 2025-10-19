@@ -47,7 +47,8 @@ It blends the feeling of a social network with the practicality of a map
 - TripAdvisor (for sharing experiences)  
 - Instagram Stories (for visual, personal moments)  
 - Local community apps like Nextdoor or Meetup
-Note: Airbnb doesn’t offer a public API, so for this project I don't use Airbnb data, only its UX patterns for inspiration
+  
+- Note: Airbnb doesn’t offer a public API, so for this project I don't use Airbnb data, only its UX patterns for inspiration
 
 Spotly combines these familiar ideas in a creative, youth driven way
 
