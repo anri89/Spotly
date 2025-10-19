@@ -63,7 +63,6 @@ Spotly combines these familiar ideas in a creative, youth driven way
  **Authentication** -  Passport.js or JWT 
  **Map API** - Leaflet or Mapbox 
  **Hosting** - Render, Railway, or Vercel 
-
 ---
 
 ## Project Status
