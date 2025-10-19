@@ -64,7 +64,7 @@ Spotly combines these familiar ideas in a creative, youth driven way
  **Map API** - Leaflet or Mapbox 
  **Hosting** - Render, Railway, or Vercel 
 
----
+
 
 ## Project Status
 Stage: Concept & planning (S2a submission)  
